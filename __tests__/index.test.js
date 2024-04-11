@@ -98,7 +98,7 @@ describe('Task 3 - Actor rating Leonardo DiCaprio', () => {
     expect(q4).toEqual('Most successful movie: Авиатор');
   });
   test('Step 5', () => {
-    expect(q5).toEqual('Awards statisctics: Award\'s pet: Премия Золотой глобус, Award\'s outsider: Премия Ассоциации кинокритиков Лос-Анджелеса');
+    expect(q5).toEqual('Awards statistics: Award\'s pet: Премия Золотой глобус, Award\'s outsider: Премия Ассоциации кинокритиков Лос-Анджелеса');
   });
   consoleSpy.mockRestore();
 });

@@ -87,7 +87,7 @@ bin/messengers.js __fixtures__/messengers.csv
 General top messenger: VK Messenger, Owner: ВКонтакте, VK 
 Download count: Max count: 1000, Min count: 23
 Top-3 Australia: Vider, Signal, LINE
-Top downloads: WhatsApp, Facebook Messenger, Telegram, Signal, Viber, Snapchat, WeChat, LINE
+Top downloads: Signal, LINE, WeChat, Viber, Telegram, Snapchat, Facebook Messenger, WhatsApp
 ```
 5. Выведите название компании, которая владеет двумя или более приложениями из списка:
 ```bash
