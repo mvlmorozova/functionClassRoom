@@ -29,7 +29,7 @@ describe('Task 1 - Messengers', () => {
     expect(q3).toEqual('Top-3 Australia: Facebook Messenger, Telegram, WhatsApp');
   });
   test('Step 4', () => {
-    expect(q4).toEqual('Top downloads: WhatsApp, Facebook Messenger, Telegram, Signal, Viber, Snapchat, WeChat, LINE');
+    expect(q4).toEqual('Top downloads: WhatsApp, Facebook Messenger, Snapchat, Telegram, Viber, WeChat, LINE, Signal');
   });
   test('Step 5', () => {
     expect(q5).toEqual('Top owner: Meta Platforms Inc.');
@@ -76,7 +76,7 @@ describe('Task 3 - Actor rating Nicolas Cage', () => {
     expect(q4).toEqual('Most successful movie: Покидая Лас-Вегас');
   });
   test('Step 5', () => {
-    expect(q5).toEqual('Awards statisctics: Award\'s pet: Премия Золотая малина, Award\'s outsider: Премия BAFTA');
+    expect(q5).toEqual('Awards statistics: Award\'s pet: Премия Золотая малина, Award\'s outsider: Премия BAFTA');
   });
   consoleSpy.mockRestore();
 });
